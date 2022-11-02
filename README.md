@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nelson-rondon-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nelson-rondon-dev/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<br/>  
 
 
 ## My Skill Set  
@@ -70,3 +70,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nelsonrondon-dev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+
+
+  
